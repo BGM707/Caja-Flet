@@ -2,7 +2,7 @@
 
 **Entre:**
 
-**Benjamín González Medina**, abogado y desarrollador de software, con domicilio en [Dirección], en adelante "El Proveedor", y
+**Benjamín González Medina**, abogado y desarrollador de software, con domicilio en [Concepcion], en adelante "El Proveedor", y
 
 **[Nombre del Cliente]**, con domicilio en [Dirección del Cliente], en adelante "El Cliente".
 
